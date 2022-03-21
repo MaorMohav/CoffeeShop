@@ -3,6 +3,7 @@ Coffee Shop is a website used to manage a coffee shop by a manager, order by cus
 The site has three login permissions:
 
 * Cafe manager - manager in charge of the management:
+
  Changing the availability of seats in the coffee shop.
  
  Menu management: changing the prices of the products in the menu, changing the availability of the products.
