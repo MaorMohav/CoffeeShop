@@ -4,6 +4,7 @@ The site has three login permissions:
 
 * Cafe manager - manager in charge of the management:
  Changing the availability of seats in the coffee shop.
+ 
  Menu management: changing the prices of the products in the menu, changing the availability of the products.
 
 * Barista - Barista is responsible for confirming orders placed by customers, changing the condition of the tables to "available" (when customers vacated the seats).
